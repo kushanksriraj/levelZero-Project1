@@ -7,3 +7,6 @@ Environment details:
 
 - node v12.16.1
 - readline-sync v1.4.10
+
+#### Screenshot
+[![screenshot](screenshot.png)
